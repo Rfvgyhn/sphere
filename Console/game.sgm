@@ -1,0 +1,7 @@
+author=Unknown
+description=
+name=Console
+screen_height=480
+screen_width=640
+script=Main.js
+

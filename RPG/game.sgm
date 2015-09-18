@@ -1,0 +1,7 @@
+author=Chris
+description=Started June-24-05
+name=RPG
+screen_height=240
+screen_width=320
+script=Main.js
+
